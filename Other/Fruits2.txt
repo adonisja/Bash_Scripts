@@ -1,0 +1,11 @@
+Fruit: Fruit | Color: Color
+Fruit: Apple | Color: Red
+Fruit: Banana | Color: Yellow
+Fruit: Grapes | Color: Green
+Fruit: Orange | Color: Orange
+Fruit: Blueberry | Color: Blue
+Fruit: Strawberry | Color: Red
+Fruit: Kiwi | Color: Brown
+Apple
+Strawberry
+Current Date: Mon Oct  7 15:40:44 EDT 2024
