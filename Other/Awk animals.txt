@@ -1,0 +1,8 @@
+Animal,Type,Lifespan
+Dog,Mammal,13
+Cat,Mammal,15
+Parrot,Bird,50
+Goldfish,Fish,5
+Tortoise,Reptile,100
+Rabbit,Mammal,9
+Eagle,Bird,20

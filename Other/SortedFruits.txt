@@ -1,0 +1,8 @@
+Apple,Red
+Banana,Yellow
+Blueberry,Blue
+Fruit,Color
+Grapes,Green
+Kiwi,Brown
+Orange,Orange
+Strawberry,Red

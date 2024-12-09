@@ -1,0 +1,12 @@
+2024-11-29 12:31:32: PID 1733, CPU 99.0%, MEM 0.2%, COMMAND /Users/akkeem/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx
+2024-11-29 12:31:32: Terminating PID 1733 for exceeding resource usage threshold
+2024-11-29 12:32:32: PID 1733, CPU 98.9%, MEM 0.2%, COMMAND /Users/akkeem/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx
+2024-11-29 12:32:32: Terminating PID 1733 for exceeding resource usage threshold
+2024-11-29 13:06:51: PID 31605, CPU 121.4%, MEM 2.6%, COMMAND /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer)
+2024-11-29 13:06:51: Terminating PID 31605 for exceeding resource usage threshold
+2024-11-29 13:08:51: PID 1733, CPU 100.0%, MEM 0.2%, COMMAND /Users/akkeem/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx
+2024-11-29 13:08:51: Terminating PID 1733 for exceeding resource usage threshold
+2024-11-29 13:09:51: PID 1733, CPU 98.7%, MEM 0.2%, COMMAND /Users/akkeem/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx
+2024-11-29 13:09:51: Terminating PID 1733 for exceeding resource usage threshold
+2024-11-29 13:12:51: PID 1733, CPU 99.1%, MEM 0.2%, COMMAND /Users/akkeem/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx
+2024-11-29 13:12:51: Terminating PID 1733 for exceeding resource usage threshold

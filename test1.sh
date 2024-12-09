@@ -1,0 +1,1 @@
+ps -eo pid,%cpu,%mem,comm | sort -k 2 -r | head -n 50
